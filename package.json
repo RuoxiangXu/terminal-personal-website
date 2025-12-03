@@ -1,0 +1,38 @@
+{
+  "name": "terminal-portfolio-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An interactive terminal-style personal portfolio website template built with Next.js 15 and Tailwind CSS",
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
+  "packageManager": "pnpm@9.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "framer-motion": "^11.15.0",
+    "react-markdown": "^9.0.1",
+    "react-simple-typewriter": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "15.1.2"
+  }
+}
