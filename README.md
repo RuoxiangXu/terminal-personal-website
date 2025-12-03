@@ -1,7 +1,7 @@
 # Terminal Personal Website Template
 
-An interactive terminal-style personal website template built with Next.js 15 and Tailwind CSS. Create your own unique personal website with a retro command-line interface!
-Check https://ruoxiangxu.com for live demo.
+An interactive terminal-style personal website that uses commman line input to display personal information. Built with Next.js 15 and Tailwind CSS.
+Create your own unique personal website with a retro command-line interface! Check https://ruoxiangxu.com for live demo.
 
 ## Disclaimer
 This website was completely developed using **vibe coding** approach:
