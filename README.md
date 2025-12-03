@@ -1,6 +1,7 @@
 # Terminal Personal Website Template
 
 An interactive terminal-style personal website template built with Next.js 15 and Tailwind CSS. Create your own unique personal website with a retro command-line interface!
+Check https://ruoxiangxu.com for live demo.
 
 ## Disclaimer
 This website was completely developed using **vibe coding** approach:
@@ -171,6 +172,10 @@ The site is configured for static export and can be deployed to:
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
 - [Framer Motion](https://www.framer.com/motion/) - Animations
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
+
+## ⭐ Support This Project
+
+If this template saves you time or sparks ideas, please consider giving the repository a star. This helps a lot. Thank you!
 
 ## 📝 License
 
